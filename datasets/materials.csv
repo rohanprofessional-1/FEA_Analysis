@@ -1,0 +1,45 @@
+Material Name,Youngs_modulus,Poissons_ratio
+"Alumina, 88%",2.46E+11,0.2392
+"Aluminum alloy, wrought, 6061, T6",69040000000,0.33
+"Brass, C37700",99950000000,0.345
+"Bronze, C51000",1.08E+11,0.345
+"Carbon steel, 1020, annealed",2.12E+11,0.29
+"Cast iron, EN GJL 100",89440000000,0.26
+"Composite, Epoxy/glass fiber, woven prepreg, biax.",26400000000,0.1543
+Concrete,19360000000,0.1414
+"Copper, pure, C10100, hard",1.26E+11,0.345
+"Glass, soda lime (common glass)",69930000000,0.2149
+"Gold, pure",75760000000,0.42
+"Low alloy steel, 4140, normalized",2.13E+11,0.29
+"Magnesium alloy, AZ31B, wrought",44650000000,0.305
+"Magnet, permanent, Ferrite Y30BH (YBM-2B)",1.90E+11,0.35
+"Magnetic alloy, silicon core iron A",2.07E+11,0.3001
+"PCB laminate, Epoxy/Glass fiber, FR-4.0 (Df > 0.02 at 10GHz)",24370000000,0.1649
+"PCB laminate, PTFE",4600000000,0.25
+"Plastic, ABS (high-impact)",2090000000,0.4089
+"Plastic, HDPE",1080000000,0.4183
+"Plastic, PA6",1111000000,0.3499
+"Plastic, PC (copolymer, heat resistant)",2180000000,0.4002
+"Plastic, PET (amorphous)",2898000000,0.3887
+"Plastic, PI (thermoplastic)",2478000000,0.3986
+"Plastic, PP (homopolymer, low flow)",1461000000,0.4087
+"Plastic, PS (high impact)",1720000000,0.4074
+"Plastic, PTFE",419500000,0.4499
+"Plastic, PVC (rigid)",2861000000,0.4
+"Silicon, pure",1.63E+11,0.27
+"Silver, pure",72910000000,0.37
+"Solder, tin-lead (60-40)",29930000000,0.3899
+"Stainless steel, 316, annealed",1.95E+11,0.27
+"Structural steel, S275N",2.10E+11,0.3046
+"Titanium alloy, Ti-6Al-4V, annealed",1.11E+11,0.3387
+"Wood, Oak",22780000000,0.3742
+"Zinc, pure",1.01E+11,0.2499
+Structural Steel",	2E+11,	0.3
+"Aluminum Alloy",71000000000,	0.33
+"Concrete",	30000000000,	0.18
+"Copper Alloy",	1.1E+11,	0.34
+"Gray Cast Iron",	1.1E+11,	0.28
+"Magnesium Alloy",	45000000000,	0.35
+"Polyethylene",	1100000000,	0.42
+"Stainless Steel",	1.93E+11,	0.31
+"Titanium Alloy",	96000000000,	0.36
